@@ -1,6 +1,8 @@
 # Temperature-and-humidity-sensor-Arduino
+All the files and info from the author below! Credit: alberto.valle@sketch3d.mx
 
-This is a tutorial on how to make a temperature and humidity sensor using an Elegoo Uno R3 Arduino. To do this, we will need the following parts:
+
+This is an updated 2023 tutorial on how to make a temperature and humidity sensor using an Elegoo Uno R3 Arduino. To do this, we will need the following parts:
 
     - LCD display
     - Breadboard
@@ -36,3 +38,6 @@ IMPORTANT
 
 This is a tutorial detailing some things to keep in mind and updated for the year 2023. The license for all files in the repository belongs to Alberto Valle. Below, I leave his repository, tutorial, and website in Spanish. I hope this tutorial has been able to help someone :) Regards!
 
+Download data from         --> https://drive.google.com/drive/folders/1Y-LN6PaQ-BHtK7_dDY5x4c6N_sK2HF1s
+Author web page            --> https://www.sketch3d.mx/
+Youtube tutorial (spanish) --> https://www.youtube.com/watch?v=LYMdgvtxP3g
