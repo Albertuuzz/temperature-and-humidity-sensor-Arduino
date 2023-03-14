@@ -22,4 +22,17 @@ Remember that the red and black wires are for power (5v) and ground, respectivel
 
 -   Arduino Uno: Remember to connect the Arduino to the computer via USB and then, using the Arduino IDE, run the program to display the data on the LCD.
 
+Now, we will open the .ino file from the repository with the Arduino IDE on our PC (if you don't have it, you can download the latest version at https://www.arduino.cc/en/software). Once it's open, we will select Arduino Uno in the top left corner, as shown below.
+
 ![Captura65455](https://user-images.githubusercontent.com/43005371/224952638-907f4d3c-8f30-47e9-b1eb-3c430189a4cd.PNG)
+
+Next, we will need to install the dht11 library and open the Arduino program from the repository.
+
+To install the dht11 library, we will go to C:\Users\User\Documents\Arduino. In this directory, the "libraries" folder should appear, and that is where we will place the dht11 folder. If the "libraries" folder does not appear, we will go to the IDE, select Sketch, include library, and add any library, and the "libraries" folder will appear. We just need to add the dht11 folder inside the "libraries" folder (you can also try opening the folder from Sketch / open .Zip).
+
+After that, we will click on "upload and verify," and it will be ready!
+
+IMPORTANT
+
+This is a tutorial detailing some things to keep in mind and updated for the year 2023. The license for all files in the repository belongs to Alberto Valle. Below, I leave his repository, tutorial, and website in Spanish. I hope this tutorial has been able to help someone :) Regards!
+
