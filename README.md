@@ -39,5 +39,8 @@ IMPORTANT
 This is a tutorial detailing some things to keep in mind and updated for the year 2023. The license for all files in the repository belongs to Alberto Valle. Below, I leave his repository, tutorial, and website in Spanish. I hope this tutorial has been able to help someone :) Regards!
 
 Download data from         --> https://drive.google.com/drive/folders/1Y-LN6PaQ-BHtK7_dDY5x4c6N_sK2HF1s
+
 Author web page            --> https://www.sketch3d.mx/
+
 Youtube tutorial (spanish) --> https://www.youtube.com/watch?v=LYMdgvtxP3g
+
